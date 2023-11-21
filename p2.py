@@ -1,4 +1,4 @@
-with open('17-9.txt') as l:
+with open('17-9.txt') as l:            ###195
     a=[int(i) for i in l]
 n=len(a)
 cnt=0
